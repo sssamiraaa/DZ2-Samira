@@ -1,0 +1,28 @@
+body{
+  background-image: url('https://res.cloudinary.com/dfog0e294/image/upload/v1540448570/web-design/spider_man.jpg');
+  background-size: cover;
+  background-attachment: fixed;  
+}
+h1{
+     padding: 10px 15px 15px;
+     margin: 5px 0 20px 10px;
+     color: rgb(0, 0, 0);
+     font-size: 70px;
+}  
+
+p{ 
+    padding: 10px 15px;
+    margin: 3% 45% 0 3%;
+    background-color: #ffaeae8f;
+    color: #111111;
+    font-size: 30px;
+    
+ }
+
+
+h4{
+  padding: 10px 15px;
+    margin: 3% 45% 0 3%;
+    background-color: #ffaeae8f;
+    font-size: 5px;
+}
